@@ -1,3 +1,5 @@
+# Um exemplo simplicaficado de gerenciamento de acesso ao banco de dado no node.js
+A finalidade é exemplificar nas versões do node.js acima da versão 20 ficou mais fácil o gerenciamento.
 # Iniciando projeto
 ```
 npm init -y
